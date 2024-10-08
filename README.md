@@ -14,7 +14,7 @@ AnimaSSH is an alternative SSH/SFTP implementation, relying solely on OpenSSH bi
 
 ### From Release
 
-The [AnimaSSH releases](https://github.com/kwsimons/AnimaSSH/releases) page hosts a fully assembled `xbox` directory that contains everything needed, this folder simply needs to be copied to the root of your USB drive.  It contains .NET SDK 8.0.402, Powershell 7.3.12, Silverton 0.2+ and AnimaSSH.  It is configured to use the built in OpenSSH server on the Xbox as well as launch Powershell for SSH shells *by default*.
+The [AnimaSSH releases](https://github.com/kwsimons/AnimaSSH/releases) page hosts a fully assembled `xbox` directory that contains everything needed, this folder simply needs to be copied to the root of your USB drive.  It contains .NET SDK 8.0.402, Powershell 7.3.12, Silverton 0.2+ and AnimaSSH.  It is configured to use the built in OpenSSH binaries on the Xbox as well as launch Powershell for SSH shells *by default*.
 
 ### Manually
 
